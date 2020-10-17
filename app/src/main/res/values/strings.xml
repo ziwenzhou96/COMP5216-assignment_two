@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Take Photo</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="back">Back</string>
+    <string name="image_activity">ImageActivity</string>
+    <string name="camera_activity">CameraActivity</string>\
+</resources>
